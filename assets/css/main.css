@@ -116,13 +116,13 @@ ul.posts span {
   color: #8085C1;
 }
 
-.site .footer .rss {
+.site .footer .logo{
   margin-top: 1.1em;
-  margin-right: -.2em;
+  margin-right: .2em;
   float: right;
 }
 
-.site .footer .rss img {
+.site .footer .logo img {
   border: 0;
 }
 
