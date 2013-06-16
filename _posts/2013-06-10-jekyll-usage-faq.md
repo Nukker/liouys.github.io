@@ -6,6 +6,8 @@ category: Jekyll
 
 由于最近想使用Jekyll整理一个自己网站，但是使用Jekyll过程中遇到了几个问题，不过这些问题已经都解决了。为了方便后来者使用Jekyll少走弯路。
 
+<hr>
+
 #问题一: 由于ruby版本安装不正确导致jekyll运行失败?
 
 ##问题现象
@@ -23,7 +25,7 @@ category: Jekyll
 
 <hr>
 
-#问题二: 当出现中文文章时，jekyll加载失败。
+#问题二: 当出现中文文章时，jekyll加载失败?
 
 ##问题现象
 
