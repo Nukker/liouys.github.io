@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Fedora下一代Yum软件包管理器DNF
