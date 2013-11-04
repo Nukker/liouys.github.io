@@ -1,6 +1,10 @@
 ---
-published: true
+layout: post
+title:  "Fedora下一代Yum软件包管理器DNF"
+date:   2013-11-03 14:05:50
+categories: DNF
 ---
+
 
 # Fedora下一代Yum软件包管理器DNF
 
